@@ -1,4 +1,4 @@
 package pl.regula.ksb2aopdomowe.aop;
 
-public @interface HelloApect {
+public @interface SendAnEmail {
 }
